@@ -10,6 +10,7 @@ Done:
 - Compared the two skills, documented conflicts and resolutions (`docs/skills-integration.md`).
 - Danie decisions: borrow TTM format for all 3T clients; US English and $ by default; Danie reviews every doc (not Tristan); store everything in a private GitHub repo.
 - Created this repo's structure: `CLAUDE.md`, brand template, brand index, Scent Pilot stub (verified facts only), skill overrides, setup status.
+- Repo pushed to GitHub (private, danie3ortiz/3t-marketing-ops) after Danie installed the Claude GitHub App.
 
 Not done yet:
 - No brand work. Danie wants setup finished first.

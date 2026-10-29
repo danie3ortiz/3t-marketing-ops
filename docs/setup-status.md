@@ -28,7 +28,7 @@ Last checked: 2026-10-29 (cloud session). Re-check at the start of any session w
 
 ## Open setup steps (in order)
 
-1. [ ] Attach this repo to the Claude Code cloud environment so every session loads `CLAUDE.md` automatically.
+1. [ ] When starting a new Claude Code session, select the `3t-marketing-ops` repository so `CLAUDE.md` loads automatically. (Repo exists and is pushed as of 2026-10-29.)
 2. [ ] For each brand: copy its Claude Project instructions + key knowledge into one Google Doc in that client's Drive folder, named `Brand Reference - <Brand>`. Claude then builds `brands/<slug>/` from it.
 3. [ ] Add team names, roles and Asana assignees to `docs/team.md`.
 4. [ ] Inspect Asana project structure and record conventions in `docs/asana-conventions.md` (read-only first).
