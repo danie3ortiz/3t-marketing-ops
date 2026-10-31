@@ -82,3 +82,15 @@ Verified facts only. Each entry has a source and date. If it is not here or in p
 **Source:** Figma CLIENT - REVIEW page
 **Date verified:** 2026-10-31
 **Notes:** Confirm whether the free 10ml sample over $100 is still active.
+
+## Catalog and prices (site)
+**Claim:** scentpilot.com lists 241 products (products.json). Featured Nov 2026 products and 2ml prices: Tom Ford Tobacco Vanille $34.99, JPG Le Male Elixir $19.99, Azzaro The Most Wanted Parfum $16.99, Tom Ford Oud Wood $34.99, Creed Aventus $34.99, Versace Eros EDP $13.99, Acqua Di Gio Parfum 2024 $19.99, Louis Vuitton Imagination $39.99. All available. Sizes are 2ml / 5ml / 10ml (some also 100ml).
+**Source:** https://scentpilot.com/products.json
+**Date verified:** 2026-10-31
+**Notes:** Product URL pattern: https://scentpilot.com/products/<handle>. Re-check prices each month.
+
+## Reviews on product pages
+**Claim:** Loox reviews are server-rendered on each product page (readable without loox.io). Ratings Oct 31, 2026: LV Imagination 4.5 (42 reviews), Creed Aventus 4.6 (13), ADG Parfum 2024 4.2 (17), Le Male Elixir 4.5 (11), Most Wanted Parfum 4.6 (7), Eros EDP 4.1 (14), Tobacco Vanille 4.2 (5), Oud Wood 3.8 (12).
+**Source:** scentpilot.com product pages
+**Date verified:** 2026-10-31
+**Notes:** Used in Nov 2026 Email 3: Richard N. (LV Imagination), Kelvin T. (ADG Parfum 2024), Todd J. (Creed Aventus). Do not reuse in November.

@@ -8,8 +8,10 @@ Last checked: 2026-10-29 (cloud session). Re-check at the start of any session w
 |---|---|---|---|
 | Klaviyo | Connected | Read account details and 5 recent campaigns. Account: Scent Pilot (ID RvjE97), timezone US/Eastern. | One account per connection. Other brands not reachable yet. Tools exist to create drafts, schedule, send and edit flows: never schedule/send/activate without Danie's explicit approval. |
 | Figma | Connected | `whoami`: handle Triple Threat Growth, manage@3tgrowth.com, plan "manage's team" (Starter), Full seat, admin. | Can read files, screenshot, create files, edit via Plugin API, generate images (costs Figma AI credits). Starter plan has tighter MCP rate limits. Read-tested on the Scent Pilot file 2026-10-31 (metadata, variables, inline screenshots). Image downloads to the container are blocked by the network; use inline screenshots. |
-| Google Drive | Connected | Listed recent files and the clients folder as danie@3tgrowth.com. | Can read, search, create Docs (HTML conversion), share. Cannot create Doc tabs (manual step). |
-| Asana | Connected 2026-10-29 | `get_me`: Danie, danie@3tgrowth.com, one workspace (gid 1209393728012217). | Project structure not yet inspected. |
+| Google Drive | Connected | Listed recent files and the clients folder as danie@3tgrowth.com. | Read, search, create, export. |
+| Google Docs | Connected 2026-10-31 | Wrote 4 email tabs + Notes into "November 2026 -SP" (tables, nested card tables, styles). | read_doc output is large (saved to file); use `tools/gdoc_brief_builder.py`. |
+| Network | scentpilot.com allowed 2026-10-31 | products.json and product pages (with Loox reviews server-rendered) readable. | loox.io still blocked (403); not needed because reviews render on product pages. Figma image downloads blocked; use inline screenshots. |
+| Asana | Connected 2026-10-29 | `get_me`: Danie, danie@3tgrowth.com, one workspace (gid 1209393728012217). | Conventions in `docs/asana-conventions.md`. |
 | Atlassian (Jira/Confluence) | Connected 2026-10-30 | Not used. | Danie: may be handy later, not needed now. |
 | GitHub | Repo `3t-marketing-ops` | See session log. | Holds this file. Cloud sessions are wiped; commit and push at the end of every session. |
 

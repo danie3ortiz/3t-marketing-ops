@@ -15,7 +15,7 @@ Claude Code reads this file at the start of every session in this repo. It holds
 |---|---|---|
 | Klaviyo | Campaigns, flows, segments, reporting | MCP connection reaches ONE account at a time (currently Scent Pilot). Always confirm which account is connected before touching data. |
 | Figma | Email graphics and design | MCP connected as the Triple Threat Growth account (Starter plan, tighter MCP rate limits). Client review process: `docs/figma-review-workflow.md`. |
-| Google Drive / Docs | Briefs and copy docs | Client folders live under the shared clients folder. Copy docs are built as HTML and converted to Google Docs. |
+| Google Drive / Docs | Briefs and copy docs | Drive + Google Docs connectors. Briefs are written straight into Danie's monthly Google Doc, one tab per email, with `tools/gdoc_brief_builder.py` (see `tools/README.md`). Never hand Danie HTML files. |
 | Atlassian | Jira / Confluence | Connected but not used for now. |
 | Asana | Planning, assignments, deadlines, production tracking | Connected. Inspect existing project structure before creating anything. |
 | Claude skills | `/mx` and `/ttm-email-copy-format` | See "How the two skills work together" below and `docs/skills-integration.md`. |
@@ -79,6 +79,7 @@ docs/setup-status.md          what's connected, what's verified, open setup step
 docs/skills-integration.md    full comparison of /mx and /ttm-email-copy-format and conflict resolutions
 docs/session-log.md           dated log of what was done each session
 skill-overrides/              3T taste and feedback log for the TTM copy skill
+tools/                        helper scripts (Google Doc brief builder)
 ```
 
 ## End of every session

@@ -2,6 +2,20 @@
 
 Newest first.
 
+## 2026-10-31: Session 3 (Google Docs connected)
+
+Done:
+- Google Docs connector + scentpilot.com access confirmed (loox.io still blocked; reviews read from product pages instead).
+- Verified all featured products, 2ml prices and stock against scentpilot.com; picked 3 real 5-star reviews for Email 3.
+- Wrote Nov emails 1-4 + Notes into Google Doc "November 2026 -SP" (tabs: Email 1 | Nov 9, Email 2 | Nov 11, Email 3 | Nov 13, Email 4 | Nov 13, Notes), TERRA layout. Verified text and rendered PDF.
+- Asana: 4 parent tasks now link to their tabs.
+- Added `tools/gdoc_brief_builder.py` (+ README) and the batch-1 content file; removed the HTML copy file.
+
+Next:
+1. Danie reviews tabs 1-4 in the doc.
+2. Write emails 5-13 into new tabs of the same doc.
+3. Figma design test (Veterans Day Sale Is Live first).
+
 ## 2026-10-31: Setup session 2
 
 Done:
