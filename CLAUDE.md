@@ -6,7 +6,7 @@ Claude Code reads this file at the start of every session in this repo. It holds
 
 - Agency: **Triple Threat Growth (3T)**, an email and SMS marketing agency serving multiple DTC brands.
 - Owner: **Danie** (danie@3tgrowth.com). Danie reviews and approves every copy doc, calendar and brief.
-- Team: an assistant and multiple designers. (Names and Asana assignees: missing info, add to `docs/team.md` when confirmed.)
+- Team: see `docs/team.md` (Joyce, Executive; Jeoff, Copywriter; Kheen and Jeson, Graphic Designers).
 - Work: monthly email/SMS campaign calendars, automated flows, copywriting, design, Klaviyo implementation, reporting.
 
 ## Tools
@@ -14,8 +14,9 @@ Claude Code reads this file at the start of every session in this repo. It holds
 | Tool | Role | Notes |
 |---|---|---|
 | Klaviyo | Campaigns, flows, segments, reporting | MCP connection reaches ONE account at a time (currently Scent Pilot). Always confirm which account is connected before touching data. |
-| Figma | Email graphics and design | MCP connected as the Triple Threat Growth account (Starter plan). Starter plans have tighter MCP rate limits. |
+| Figma | Email graphics and design | MCP connected as the Triple Threat Growth account (Starter plan, tighter MCP rate limits). Client review process: `docs/figma-review-workflow.md`. |
 | Google Drive / Docs | Briefs and copy docs | Client folders live under the shared clients folder. Copy docs are built as HTML and converted to Google Docs. |
+| Atlassian | Jira / Confluence | Connected but not used for now. |
 | Asana | Planning, assignments, deadlines, production tracking | Connected. Inspect existing project structure before creating anything. |
 | Claude skills | `/mx` and `/ttm-email-copy-format` | See "How the two skills work together" below and `docs/skills-integration.md`. |
 

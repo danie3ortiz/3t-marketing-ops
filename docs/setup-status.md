@@ -7,9 +7,10 @@ Last checked: 2026-10-29 (cloud session). Re-check at the start of any session w
 | Tool | Status | Verified | Limits / notes |
 |---|---|---|---|
 | Klaviyo | Connected | Read account details and 5 recent campaigns. Account: Scent Pilot (ID RvjE97), timezone US/Eastern. | One account per connection. Other brands not reachable yet. Tools exist to create drafts, schedule, send and edit flows: never schedule/send/activate without Danie's explicit approval. |
-| Figma | Connected | `whoami`: handle Triple Threat Growth, manage@3tgrowth.com, plan "manage's team" (Starter), Full seat, admin. | Can read files, screenshot, create files, edit via Plugin API, generate images (costs Figma AI credits). Starter plan has tighter MCP rate limits. Not yet tested on a real file. |
+| Figma | Connected | `whoami`: handle Triple Threat Growth, manage@3tgrowth.com, plan "manage's team" (Starter), Full seat, admin. | Can read files, screenshot, create files, edit via Plugin API, generate images (costs Figma AI credits). Starter plan has tighter MCP rate limits. Read-tested on the Scent Pilot file 2026-10-31 (metadata, variables, inline screenshots). Image downloads to the container are blocked by the network; use inline screenshots. |
 | Google Drive | Connected | Listed recent files and the clients folder as danie@3tgrowth.com. | Can read, search, create Docs (HTML conversion), share. Cannot create Doc tabs (manual step). |
 | Asana | Connected 2026-10-29 | `get_me`: Danie, danie@3tgrowth.com, one workspace (gid 1209393728012217). | Project structure not yet inspected. |
+| Atlassian (Jira/Confluence) | Connected 2026-10-30 | Not used. | Danie: may be handy later, not needed now. |
 | GitHub | Repo `3t-marketing-ops` | See session log. | Holds this file. Cloud sessions are wiped; commit and push at the end of every session. |
 
 ## Skills
@@ -30,8 +31,8 @@ Last checked: 2026-10-29 (cloud session). Re-check at the start of any session w
 
 1. [ ] When starting a new Claude Code session, select the `3t-marketing-ops` repository so `CLAUDE.md` loads automatically. (Repo exists and is pushed as of 2026-10-29.)
 2. [ ] For each brand: copy its Claude Project instructions + key knowledge into one Google Doc in that client's Drive folder, named `Brand Reference - <Brand>`. Claude then builds `brands/<slug>/` from it.
-3. [ ] Add team names, roles and Asana assignees to `docs/team.md`.
+3. [x] Team names and roles in `docs/team.md` (2026-10-31). Asana user IDs still to add.
 4. [ ] Inspect Asana project structure and record conventions in `docs/asana-conventions.md` (read-only first).
-5. [ ] Share the Figma email template file link(s) per brand.
+5. [x] Scent Pilot Figma file shared and reviewed (2026-10-31). Other brands: share links when needed.
 6. [ ] Decide how to reach Klaviyo for brands other than Scent Pilot.
 7. [ ] Run the pilot (one brand, one campaign, idea -> copy doc -> Figma support -> Asana task).

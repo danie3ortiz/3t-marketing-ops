@@ -2,6 +2,20 @@
 
 Newest first.
 
+## 2026-10-31: Setup session 2
+
+Done:
+- Repo loaded automatically from GitHub; CLAUDE.md active.
+- Team recorded in `docs/team.md`: Joyce (Executive), Jeoff (Copywriter), Kheen and Jeson (Graphic Designers).
+- Reviewed Scent Pilot Figma file: no style guide page exists; documented the client review workflow (`docs/figma-review-workflow.md`), observed design style, founder, brand phrases and 3 fact conflicts (2ml price, catalog count, threshold offers) in `brands/scent-pilot/`.
+- Atlassian connected; Danie: not needed now.
+
+Next session:
+1. Asana: read-only inspection, record conventions in `docs/asana-conventions.md`, add Asana user IDs to `docs/team.md`.
+2. Scent Pilot brand info: Danie adds `Brand Reference - Scent Pilot` doc, or Claude reads the Drive strategy docs.
+3. Optional: extract exact hex colors and fonts from the Figma design.
+4. Confirm: is the Figma review setup ("copyrath") standard for all clients?
+
 ## 2026-10-29: Setup session 1
 
 Done:
