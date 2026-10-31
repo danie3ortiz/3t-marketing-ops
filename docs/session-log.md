@@ -13,10 +13,12 @@ Done:
 - Inspected Scent Pilot Asana project read-only; conventions in `docs/asana-conventions.md`; Asana IDs in `docs/team.md`.
 - Danie decisions: section "November 2026"; task name = campaign title; Kheen gets design subtasks; design due 2-3 days before send; Danie wants to test Claude designing some emails.
 
+- Asana: created section "November 2026", 13 tasks (assigned to Jeoff) and 10 unassigned GD subtasks. IDs in the calendar file.
+
 Next:
-1. Danie approves the Asana batch (13 tasks + design subtasks) and resolves calendar conflicts.
-2. Briefs/copy doc with /ttm-email-copy-format, earliest sends first.
-3. Claude design test in Figma on 1-2 emails.
+1. Danie answers the sale questions (end time, code vs automatic, free 10ml brands and threshold math, exclusions).
+2. Briefs/copy doc with /ttm-email-copy-format, earliest sends first (Nov 9, 11, 13).
+3. Claude design test in Figma (suggested: Veterans Day Sale Is Live, How Your Decant Gets Made).
 
 ## 2026-10-29: Setup session 1
 
