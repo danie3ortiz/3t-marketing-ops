@@ -27,3 +27,7 @@ Strength: stated. Source: Danie, 2026-10-31 (F004).
 Strength: seen once. Source: Danie, 2026-10-31 (F005).
 
 <!-- Next ID: 3T-09 -->
+
+## 3T-09: Designed emails need supporting sections
+Danie (2026-10-31): emails with only hero + one grid feel thin. Give designed campaigns 5 to 7 sections, reusing modules from the brand's approved past designs (for Scent Pilot: notes breakdown, How It Works steps, Testing Before Investing, Everywhere else vs Scent Pilot, size and price ladder, review card, offer icons). Every module still uses verified facts only.
+

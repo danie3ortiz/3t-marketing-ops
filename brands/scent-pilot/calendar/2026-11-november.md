@@ -62,6 +62,10 @@ Parent tasks assigned to Jeoff (copy/brief). Due: first 4 sends due Nov 3; the r
 ## Open placeholders
 - Does 15% stack with Sale-section prices?
 - Aventus details; gift guide picks and price points; reviews and approval.
-- Copy doc: Danie's Google Doc "November 2026 -SP" (id 1877GRyrNBfLsQoDi7lcT7TVFsiL7cBlJescXoOEX6JU), one tab per email.
+- Copy doc (all 13 emails + Notes written 2026-10-31): Danie's Google Doc "November 2026 -SP" (id 1877GRyrNBfLsQoDi7lcT7TVFsiL7cBlJescXoOEX6JU), one tab per email.
 - Cold-weather picks (in stock, confirmed by Danie) chosen by Claude (Danie: "just pick some"): Tobacco Vanille, Le Male Elixir, The Most Wanted Parfum, Oud Wood.
 - December 1 to 4 sends belong to the December calendar.
+
+## Doc tabs (November 2026 -SP)
+Email 1 t.0 | 2 t.8jjolbh0kudr | 3 t.42gz5xvkckb0 | 4 t.kv1qk5zgekyw | 5 t.wke18jl9p1j | 6 t.tga7w1sfonhr | 7 t.6ua2226odq31 | 8 t.9bsshuexhhmo | 9 t.cz7img5ojhy7 | 10 t.2bjjstyc3r3o | 11 t.9kqtpk1su0t4 | 12 t.7u1joefpobh8 | 13 t.cj2cabgd39to | Notes t.i99csfnl7prg
+Link pattern: https://docs.google.com/document/d/1877GRyrNBfLsQoDi7lcT7TVFsiL7cBlJescXoOEX6JU/edit?tab=<tab id>

@@ -93,4 +93,14 @@ Verified facts only. Each entry has a source and date. If it is not here or in p
 **Claim:** Loox reviews are server-rendered on each product page (readable without loox.io). Ratings Oct 31, 2026: LV Imagination 4.5 (42 reviews), Creed Aventus 4.6 (13), ADG Parfum 2024 4.2 (17), Le Male Elixir 4.5 (11), Most Wanted Parfum 4.6 (7), Eros EDP 4.1 (14), Tobacco Vanille 4.2 (5), Oud Wood 3.8 (12).
 **Source:** scentpilot.com product pages
 **Date verified:** 2026-10-31
-**Notes:** Used in Nov 2026 Email 3: Richard N. (LV Imagination), Kelvin T. (ADG Parfum 2024), Todd J. (Creed Aventus). Do not reuse in November.
+**Notes:** Used in Nov 2026: Email 1 Norman G. (Most Wanted Parfum); Email 3 Richard N. (LV Imagination), Kelvin T. (ADG Parfum 2024), Todd J. (Creed Aventus); Email 7 Joseph L. (Dylan Blue); Email 10 Juan G. (Creed Aventus). Do not reuse in November.
+
+## More prices (site)
+**Claim:** 2ml / 5ml / 10ml (/100ml): Creed Aventus $34.99/$54.99/$89.99/$510; I Will $19.99/$26.99/$36.99; Montblanc Legend Elixir $13.99/$17.99/$21.99 ($135); Versace Dylan Blue $13.99/$17.99/$24.99; D&G Light Blue Intense $17.99/$24.99/$34.99; Boss Bottled Absolu $19.99/$27.99/$36.99; Prada Paradigme EDP $19.99/$26.99/$35.99 ($173); Eros EDP $13.99/$19.99/$24.99; LV Imagination $39.99/$64.99/$99.99; Oud Wood $34.99/$54.99/$74.99 ($460). Cheapest 2ml on site: $5.99.
+**Source:** https://scentpilot.com/products.json
+**Date verified:** 2026-10-31
+
+## Founder story
+**Claim:** Hamza watched reviews online, bought a fragrance without trying it, was disappointed; Scent Pilot exists to avoid that.
+**Source:** profile.md (brand record)
+**Date verified:** 2026-10-29

@@ -2,6 +2,24 @@
 
 Newest first.
 
+## 2026-10-31: Session 4 (November finished)
+
+Done:
+- Danie: emails 1-4 "look good" but need more sections, using existing designs for ideas. Rebuilt emails 1-3 with modules from approved Figma emails (notes breakdown, How It Works steps, Testing Before Investing block, Everywhere else vs Scent Pilot, size ladders, review cards). Email 4 unchanged.
+- Wrote emails 5-13 into new tabs of "November 2026 -SP"; rewrote the Notes tab (codes, open questions, designer notes, links, used reviews).
+- Asana: parent notes for tasks 5-13 now link to their tabs, with stale details corrected (Aventus prices, free 10ml wording).
+- Content for all 13 emails: `brands/scent-pilot/copy/2026-11-gdoc-content.py` (replaces the batch-1 file).
+
+Open (in the doc's Notes tab):
+1. YouTube blocked: comparison fragrances (Email 5) and the ten scents (Email 7) are missing info; confirm whether "Ranked" fits Email 7.
+2. Black Friday end time zone (copy says "midnight").
+3. Client OK to quote reviews.
+
+Next:
+1. Danie reviews tabs 1-13.
+2. Figma design test (Veterans Day Sale Is Live first).
+3. Assign GD subtasks and due dates when Danie says so.
+
 ## 2026-10-31: Session 3 (Google Docs connected)
 
 Done:
