@@ -30,7 +30,8 @@ Source of truth: Google Doc "November Calendar Ideas" (id 1EMQ7Nue7l5RKRmZ-DjukQ
 - **Black Friday sale:** same offer, Nov 23 to midnight Friday Dec 4.
 - Codes (Danie, 2026-10-31): Veterans Day = **REMEMBER15**; Black Friday = **BLACKFRIDAY15**.
 - Veterans Day sale ends Fri Nov 13, 11:59pm ET.
-- Free 10ml travel size: all brands sitewide; $100 threshold counts AFTER the 15% discount.
+- Free 10ml travel size (client wording): "unlock a 10ml travel size from a select variety of brands like Montblanc and Versace on orders over $100". Customer does not pick. Threshold counts after the discount.
+- Free shipping over $50 (whole order, after discount; no need to say so in copy).
 - No product or brand exclusions.
 
 ## Resolved (Danie, 2026-10-31)
@@ -59,9 +60,8 @@ Parent tasks assigned to Jeoff (copy/brief). Due: first 4 sends due Nov 3; the r
 | 11/30 | Cyber Monday: Your Free 10ml Is Waiting | 1220082706793057 | 11/6 | 1220092295466424 |
 
 ## Open placeholders
-- How the free 10ml is chosen or added (customer picks? auto-added?).
-- Free shipping over $50: before or after the discount?
 - Does 15% stack with Sale-section prices?
 - Aventus details; gift guide picks and price points; reviews and approval.
-- Cold-weather picks chosen by Claude (Danie: "just pick some"): Tobacco Vanille, Le Male Elixir, The Most Wanted Parfum, Oud Wood.
+- Copy doc: Danie's Google Doc "November 2026 -SP" (id 1877GRyrNBfLsQoDi7lcT7TVFsiL7cBlJescXoOEX6JU), one tab per email.
+- Cold-weather picks (in stock, confirmed by Danie) chosen by Claude (Danie: "just pick some"): Tobacco Vanille, Le Male Elixir, The Most Wanted Parfum, Oud Wood.
 - December 1 to 4 sends belong to the December calendar.

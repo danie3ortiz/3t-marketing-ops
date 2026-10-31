@@ -17,4 +17,13 @@ Strength: stated. Source: Danie, 2026-10-31.
 **3T-05 Each sale gets its own code.** Never reuse one sale's code in another sale's emails (Scent Pilot: Veterans Day REMEMBER15, Black Friday BLACKFRIDAY15).
 Strength: seen once. Source: Danie, 2026-10-31 (F002).
 
-<!-- Next ID: 3T-06 -->
+**3T-06 Campaign brief layout follows Danie's TERRA example.** Heading `Campaign | <Type> | <Campaign Title>`; meta table has 3 rows only (Email name = heading + `| Designed` or `| Plain text`, Send date, Brief); Brief is 1 to 2 short sentences (audience + what the email does). Designer notes go in the Notes tab, not the meta table. Example: Drive doc "TERRA | Meet the Bike You Could Win".
+Strength: stated. Source: Danie, 2026-10-31 (F004).
+
+**3T-07 Deliver briefs into Danie's Google Doc, one tab per email.** No HTML files handed to Danie. The month's doc lives in the brand's Campaigns folder (Scent Pilot: "November 2026 -SP").
+Strength: stated. Source: Danie, 2026-10-31 (F004).
+
+**3T-08 Don't spell out obvious offer mechanics** (e.g. "free shipping over $50" needs no "after discount" note).
+Strength: seen once. Source: Danie, 2026-10-31 (F005).
+
+<!-- Next ID: 3T-09 -->

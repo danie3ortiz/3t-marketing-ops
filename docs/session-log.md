@@ -19,9 +19,10 @@ Done:
 - Wrote emails 1-4 with /ttm-email-copy-format: `brands/scent-pilot/copy/scent-pilot-campaign-november-2026.html` (checker: no errors). Sent to Danie to upload to Drive (no Docs connector; file too large to pass inline reliably).
 - Updated 9 Asana task notes with confirmed codes/offer.
 
+- Danie: no HTML; write briefs into Google Doc "November 2026 -SP" with one tab per email, TERRA layout. Blocked: no Google Docs connector; scentpilot.com and loox.io not in network allowlist.
+
 Next:
-1. Danie reviews emails 1-4 and uploads the HTML to Drive (Open with > Google Docs), then splits tabs.
-2. Email 3 needs 3 approved reviews.
+1. New session with Google Docs connector + scentpilot.com/loox.io allowed: write emails 1-4 into the doc as tabs (copy is ready in `brands/scent-pilot/copy/`), pull on-product reviews for Email 3.
 3. Write emails 5-13.
 4. Figma design test (Veterans Day Sale Is Live first).
 
