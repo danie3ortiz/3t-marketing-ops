@@ -9,12 +9,14 @@ Done:
 - Team recorded in `docs/team.md`: Joyce (Executive), Jeoff (Copywriter), Kheen and Jeson (Graphic Designers).
 - Reviewed Scent Pilot Figma file: no style guide page exists; documented the client review workflow (`docs/figma-review-workflow.md`), observed design style, founder, brand phrases and 3 fact conflicts (2ml price, catalog count, threshold offers) in `brands/scent-pilot/`.
 - Atlassian connected; Danie: not needed now.
+- Imported Scent Pilot Claude Project export (Drive doc) into profile/voice/products/memories; saved Nov 2026 calendar (`brands/scent-pilot/calendar/2026-11-november.md`) from the "November Calendar Ideas" doc, with conflicts listed.
+- Inspected Scent Pilot Asana project read-only; conventions in `docs/asana-conventions.md`; Asana IDs in `docs/team.md`.
+- Danie decisions: section "November 2026"; task name = campaign title; Kheen gets design subtasks; design due 2-3 days before send; Danie wants to test Claude designing some emails.
 
-Next session:
-1. Asana: read-only inspection, record conventions in `docs/asana-conventions.md`, add Asana user IDs to `docs/team.md`.
-2. Scent Pilot brand info: Danie adds `Brand Reference - Scent Pilot` doc, or Claude reads the Drive strategy docs.
-3. Optional: extract exact hex colors and fonts from the Figma design.
-4. Confirm: is the Figma review setup ("copyrath") standard for all clients?
+Next:
+1. Danie approves the Asana batch (13 tasks + design subtasks) and resolves calendar conflicts.
+2. Briefs/copy doc with /ttm-email-copy-format, earliest sends first.
+3. Claude design test in Figma on 1-2 emails.
 
 ## 2026-10-29: Setup session 1
 

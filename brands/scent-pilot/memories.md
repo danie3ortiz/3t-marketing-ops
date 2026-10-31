@@ -24,8 +24,34 @@ Verified facts only. Each entry has a source and date. If it is not here or in p
 **Source:** Figma get_metadata
 **Date verified:** 2026-10-31
 
+## Brand record import
+**Claim:** Claude Project info exported to Google Doc "Scent Pilot Cluade Project Info" (id 15HtCNpXewwDEV3DZlMGhvbR0_gg7Zr_MAmobhQzohkY), compiled 2026-10-30. Imported into profile, voice, products and here on 2026-10-31.
+**Source:** Danie, 2026-10-31
+**Date verified:** 2026-10-31
+
+## Authenticity guarantee scope
+**Claim:** All scents are poured from real bottles; Scent Pilot stands behind the authenticity guarantee regardless of the final-sale wording. It covers authenticity only.
+**Source:** Founder via Danie, 2026-10-29 (brand record section 7)
+**Date verified:** 2026-10-29
+
+## Loox reviews
+**Claim:** Loox page shows 4.3 stars. Review count CONFLICT: 512 on the page vs 316 in a search listing. Themes: decant sizes for testing, fast shipping, nice packaging, responsive service, free extras; mixed longevity; one wrong-fragrance report.
+**Source:** https://loox.io/s/xdA5n2NDPo (brand record section 12)
+**Date verified:** 2026-10-29
+**Notes:** Confirm count before citing. Do not quote reviews without approval.
+
+## Live Klaviyo flows
+**Claim:** Welcome Series, Cart Abandonment, Checkout Abandonment, Site Abandonment, Browse Abandonment, Post-Purchase (plus an older non-CR Post-Purchase Flow), Replenishment, Winback, Sunset.
+**Source:** Brand record section 11
+**Date verified:** 2026-10-29
+
+## Senders
+**Claim:** Designed/promo sends: "Scent Pilot" (info@scentpilot.com). Founder sends: "Hamza @ Scent Pilot".
+**Source:** Brand record sections 4 and 11
+**Date verified:** 2026-10-29
+
 ## Founder
-**Claim:** Founder is Hamza; plain-text emails are signed "Cheers, Hamza / Founder, Scent Pilot".
+**Claim:** Founder is Hamza (Hamza Saab); plain-text emails are signed "Cheers, Hamza / Founder, Scent Pilot".
 **Source:** Figma section "The 2ml Bottle That Saved Me From A $200 Mistake" (node 8927:232), approved "after" version. Klaviyo shows this campaign sent 2026-09-15.
 **Date verified:** 2026-10-31
 

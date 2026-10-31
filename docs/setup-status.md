@@ -30,9 +30,9 @@ Last checked: 2026-10-29 (cloud session). Re-check at the start of any session w
 ## Open setup steps (in order)
 
 1. [ ] When starting a new Claude Code session, select the `3t-marketing-ops` repository so `CLAUDE.md` loads automatically. (Repo exists and is pushed as of 2026-10-29.)
-2. [ ] For each brand: copy its Claude Project instructions + key knowledge into one Google Doc in that client's Drive folder, named `Brand Reference - <Brand>`. Claude then builds `brands/<slug>/` from it.
+2. [ ] (Scent Pilot done 2026-10-31) For each brand: copy its Claude Project instructions + key knowledge into one Google Doc in that client's Drive folder, named `Brand Reference - <Brand>`. Claude then builds `brands/<slug>/` from it.
 3. [x] Team names and roles in `docs/team.md` (2026-10-31). Asana user IDs still to add.
-4. [ ] Inspect Asana project structure and record conventions in `docs/asana-conventions.md` (read-only first).
+4. [x] Asana conventions recorded in `docs/asana-conventions.md` (2026-10-31).
 5. [x] Scent Pilot Figma file shared and reviewed (2026-10-31). Other brands: share links when needed.
 6. [ ] Decide how to reach Klaviyo for brands other than Scent Pilot.
 7. [ ] Run the pilot (one brand, one campaign, idea -> copy doc -> Figma support -> Asana task).
