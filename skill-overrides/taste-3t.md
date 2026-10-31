@@ -11,4 +11,10 @@ Strength: stated. Source: Danie, 2026-10-29.
 **3T-03 Doc title: `Brand | Flow or Campaign | Path or Month`.** Replaces TTM `Client | Flow | Path`.
 Strength: seen once (judgement, accepted with the setup). Source: setup session 2026-10-29.
 
-<!-- Next ID: 3T-04 -->
+**3T-04 The TTM copy doc IS the brief.** Use /ttm-email-copy-format for briefs; no separate MX brief unless asked.
+Strength: stated. Source: Danie, 2026-10-31.
+
+**3T-05 Each sale gets its own code.** Never reuse one sale's code in another sale's emails (Scent Pilot: Veterans Day REMEMBER15, Black Friday BLACKFRIDAY15).
+Strength: seen once. Source: Danie, 2026-10-31 (F002).
+
+<!-- Next ID: 3T-06 -->

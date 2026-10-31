@@ -15,10 +15,15 @@ Done:
 
 - Asana: created section "November 2026", 13 tasks (assigned to Jeoff) and 10 unassigned GD subtasks. IDs in the calendar file.
 
+- Offer answers: VD ends Fri Nov 13 11:59pm ET; codes REMEMBER15 (VD) and BLACKFRIDAY15 (BF); free 10ml all brands, $100 after discount; no exclusions.
+- Wrote emails 1-4 with /ttm-email-copy-format: `brands/scent-pilot/copy/scent-pilot-campaign-november-2026.html` (checker: no errors). Sent to Danie to upload to Drive (no Docs connector; file too large to pass inline reliably).
+- Updated 9 Asana task notes with confirmed codes/offer.
+
 Next:
-1. Danie answers the sale questions (end time, code vs automatic, free 10ml brands and threshold math, exclusions).
-2. Briefs/copy doc with /ttm-email-copy-format, earliest sends first (Nov 9, 11, 13).
-3. Claude design test in Figma (suggested: Veterans Day Sale Is Live, How Your Decant Gets Made).
+1. Danie reviews emails 1-4 and uploads the HTML to Drive (Open with > Google Docs), then splits tabs.
+2. Email 3 needs 3 approved reviews.
+3. Write emails 5-13.
+4. Figma design test (Veterans Day Sale Is Live first).
 
 ## 2026-10-29: Setup session 1
 

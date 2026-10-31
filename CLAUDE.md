@@ -47,8 +47,7 @@ Use both. Read `docs/skills-integration.md` for the full reasoning. Short versio
 |---|---|---|
 | Brand context | `/mx` brand research + voice analysis | `brands/<slug>/profile.md`, `voice.md`, `products.md`, `memories.md` |
 | Monthly calendar | `/mx` calendar builder | MX one-sentence lineup PLUS a 3T planning table (date, channel, audience, objective, angle, confirmed offer, creative needs) because Danie asked for those fields |
-| Internal spec | `/mx` campaign brief | Short spec: direction, product focus, offer, links, section order / framework / SMS type |
-| Team-facing brief + copy | `/ttm-email-copy-format` | Google Doc wireframe: subject, preview, sender, every section, buttons, links, designer notes, Notes tab |
+| Briefs + copy | `/ttm-email-copy-format` | THE brief (Danie, 2026-10-31: "for the briefs I really want us to use /ttm-email-copy-format"). Google Doc wireframe: subject, preview, sender, every section, buttons, links, designer notes, Notes tab. Skip the MX internal spec unless Danie asks for it. |
 | Review | Both | TTM review pass + checklist and taste check, plus MX six-lens checklist. One revision round, then surface what's left |
 | Reporting | `/mx` report | Real Klaviyo data only; flag gaps |
 

@@ -28,7 +28,10 @@ Source of truth: Google Doc "November Calendar Ideas" (id 1EMQ7Nue7l5RKRmZ-DjukQ
 ## Offers (owner-confirmed 2026-10-29)
 - **Veterans Day sale:** 15% off, free shipping over $50, free 10ml travel size from select brands on purchases over $100. Ends Friday night (Nov 13).
 - **Black Friday sale:** same offer, Nov 23 to midnight Friday Dec 4.
-- No sale code documented (missing info: code or automatic discount?).
+- Codes (Danie, 2026-10-31): Veterans Day = **REMEMBER15**; Black Friday = **BLACKFRIDAY15**.
+- Veterans Day sale ends Fri Nov 13, 11:59pm ET.
+- Free 10ml travel size: all brands sitewide; $100 threshold counts AFTER the 15% discount.
+- No product or brand exclusions.
 
 ## Resolved (Danie, 2026-10-31)
 - Veterans Day sale runs Nov 11 to Nov 13 (calendar doc wins over the brand record's Nov 9).
@@ -56,8 +59,9 @@ Parent tasks assigned to Jeoff (copy/brief). Due: first 4 sends due Nov 3; the r
 | 11/30 | Cyber Monday: Your Free 10ml Is Waiting | 1220082706793057 | 11/6 | 1220092295466424 |
 
 ## Open placeholders
-- Veterans Day sale end time and time zone.
-- Free 10ml: "select brands" list; is the $100 threshold before or after the 15%?
-- Sale exclusions; does 15% apply to Sale-section items; code vs automatic.
-- Cold-weather fragrance picks; Aventus details; gift guide picks and price points; reviews and approval.
+- How the free 10ml is chosen or added (customer picks? auto-added?).
+- Free shipping over $50: before or after the discount?
+- Does 15% stack with Sale-section prices?
+- Aventus details; gift guide picks and price points; reviews and approval.
+- Cold-weather picks chosen by Claude (Danie: "just pick some"): Tobacco Vanille, Le Male Elixir, The Most Wanted Parfum, Oud Wood.
 - December 1 to 4 sends belong to the December calendar.
