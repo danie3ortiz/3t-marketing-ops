@@ -177,7 +177,7 @@ E[9] = [H2('Campaign | Sale Launch | Black Friday Sale Is Live'),
              tile('Acqua Di Gio Parfum 2024', 'Marine notes, bergamot and rosemary over incense and patchouli.', '2ml $19.99', '[SHOP ACQUA DI GIO PARFUM]')]),
    P('[SHOP ALL BEST SELLERS]', 'b')],
   TRUST,
-  [P('Sale ends **Friday, December 4 at midnight**.'), P('[CODE: BLACKFRIDAY15]'), P('[SHOP BLACK FRIDAY]', 'b')],
+  [P('Sale ends **Friday, December 4 at midnight ET**.'), P('[CODE: BLACKFRIDAY15]'), P('[SHOP BLACK FRIDAY]', 'b')],
   FOOT])]
 # 10 --------------------------------------------------------------------------
 E[10] = [H2('Campaign | Product Spotlight | Creed Aventus Spotlight'),
