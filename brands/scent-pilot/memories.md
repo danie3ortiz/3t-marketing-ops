@@ -104,3 +104,8 @@ Verified facts only. Each entry has a source and date. If it is not here or in p
 **Claim:** Hamza watched reviews online, bought a fragrance without trying it, was disappointed; Scent Pilot exists to avoid that.
 **Source:** profile.md (brand record)
 **Date verified:** 2026-10-29
+
+## Figma design system (Sep 22 approved email, node 8990:498)
+**Claim:** 600px wide. Black top bar (Assistant Regular 20, white). White logo bar. Body #01000B. Headlines Atkinson Hyperlegible Mono Regular 40-50, -6% letter spacing. Body Assistant Regular 23, 31px line height. Buttons: white square 297x77, Assistant SemiBold 26 black; small 18pt. White sections alternate with dark. Footer: logo, outline buttons "Fragrance" / "New Arrivals", "© 2026, Scentpilot".
+**Source:** Figma get_metadata / use_figma read of node 8990:498
+**Date verified:** 2026-11-01
