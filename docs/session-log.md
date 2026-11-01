@@ -5,7 +5,7 @@ Newest first.
 ## 2026-11-01: Session 5 (answers + first Figma design)
 
 Done:
-- Figma: edits to the client's Scent Pilot file are refused (no Full seat in that team). Danie chose option 2: new 3T file "Scent Pilot | 3T Design Drafts" (https://www.figma.com/design/Je4icun0HdikTq1AlQp6es). Built "Nov 11 - Veterans Day Sale Is Live" R1 there (section 1:9, email frame 1:13, 600x4829) in the Sep 22 system, with button components (frame 1:2). Photos and logo are labeled grey placeholders for Kheen.
+- Figma: edits to the client's Scent Pilot file are refused (no Full seat in that team). Danie chose option 2: new 3T file "Scent Pilot | 3T Design Drafts" (https://www.figma.com/design/Je4icun0HdikTq1AlQp6es). Built "Nov 11 - Veterans Day Sale Is Live" R1 there (section 1:9, email frame 1:13, 600x4829) in the Sep 22 system, with button components (frame 1:2). Photos and logo now come from scentpilot.com (product photos via /cdn/shop/files/, cropped to the bottle; 2/5/10ml vial image; 10ml vial hero; logo), uploaded after Danie allowed mcp.figma.com.
 - Danie: Black Friday ends at midnight ET; quoting site reviews approved. Updated emails 9, 10, 13 and the Notes tab (replaceAllText), Asana task 9 and repo files.
 
 Next:

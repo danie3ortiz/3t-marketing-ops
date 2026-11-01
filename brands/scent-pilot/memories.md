@@ -109,3 +109,8 @@ Verified facts only. Each entry has a source and date. If it is not here or in p
 **Claim:** 600px wide. Black top bar (Assistant Regular 20, white). White logo bar. Body #01000B. Headlines Atkinson Hyperlegible Mono Regular 40-50, -6% letter spacing. Body Assistant Regular 23, 31px line height. Buttons: white square 297x77, Assistant SemiBold 26 black; small 18pt. White sections alternate with dark. Footer: logo, outline buttons "Fragrance" / "New Arrivals", "© 2026, Scentpilot".
 **Source:** Figma get_metadata / use_figma read of node 8990:498
 **Date verified:** 2026-11-01
+
+## Site images usable in designs
+**Claim:** Product photos (bottle on light grey with a "decant sample / image for reference only" side panel), a 2ml/5ml/10ml vial lineup on transparent background, a 10ml vial on dark grey (Untitled_design_35.png) and the logo (scent_pilot_final.png) download through https://scentpilot.com/cdn/shop/files/<file>. Crop product shots to the bottle for email tiles.
+**Source:** scentpilot.com product JSON + homepage
+**Date verified:** 2026-11-01
