@@ -30,6 +30,7 @@ Source of truth: Google Doc "November Calendar Ideas" (id 1EMQ7Nue7l5RKRmZ-DjukQ
 - **Black Friday sale:** same offer, Nov 23 to midnight Friday Dec 4.
 - Codes (Danie, 2026-10-31): Veterans Day = **REMEMBER15**; Black Friday = **BLACKFRIDAY15**.
 - Veterans Day sale ends Fri Nov 13, 11:59pm ET.
+- Black Friday sale ends Fri Dec 4 at midnight ET (Danie, 2026-11-01).
 - Free 10ml travel size (client wording): "unlock a 10ml travel size from a select variety of brands like Montblanc and Versace on orders over $100". Customer does not pick. Threshold counts after the discount.
 - Free shipping over $50 (whole order, after discount; no need to say so in copy).
 - No product or brand exclusions.
@@ -61,7 +62,8 @@ Parent tasks assigned to Jeoff (copy/brief). Due: first 4 sends due Nov 3; the r
 
 ## Open placeholders
 - Does 15% stack with Sale-section prices?
-- Aventus details; gift guide picks and price points; reviews and approval.
+- Reviews: approved to quote (Danie, 2026-11-01). Aventus details and gift picks done in the doc.
+- Hamza's videos: Danie is pulling the fragrance names for Emails 5 and 7 and whether the 10 scents are ranked.
 - Copy doc (all 13 emails + Notes written 2026-10-31): Danie's Google Doc "November 2026 -SP" (id 1877GRyrNBfLsQoDi7lcT7TVFsiL7cBlJescXoOEX6JU), one tab per email.
 - Cold-weather picks (in stock, confirmed by Danie) chosen by Claude (Danie: "just pick some"): Tobacco Vanille, Le Male Elixir, The Most Wanted Parfum, Oud Wood.
 - December 1 to 4 sends belong to the December calendar.

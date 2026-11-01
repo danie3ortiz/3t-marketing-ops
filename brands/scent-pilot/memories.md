@@ -38,7 +38,7 @@ Verified facts only. Each entry has a source and date. If it is not here or in p
 **Claim:** Loox page shows 4.3 stars. Review count CONFLICT: 512 on the page vs 316 in a search listing. Themes: decant sizes for testing, fast shipping, nice packaging, responsive service, free extras; mixed longevity; one wrong-fragrance report.
 **Source:** https://loox.io/s/xdA5n2NDPo (brand record section 12)
 **Date verified:** 2026-10-29
-**Notes:** Confirm count before citing. Do not quote reviews without approval.
+**Notes:** Confirm count before citing. Quoting on-site reviews word for word approved by Danie 2026-11-01.
 
 ## Live Klaviyo flows
 **Claim:** Welcome Series, Cart Abandonment, Checkout Abandonment, Site Abandonment, Browse Abandonment, Post-Purchase (plus an older non-CR Post-Purchase Flow), Replenishment, Winback, Sunset.

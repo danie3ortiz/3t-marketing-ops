@@ -2,6 +2,15 @@
 
 Newest first.
 
+## 2026-11-01: Session 5 (answers)
+
+Done:
+- Danie: Black Friday ends at midnight ET; quoting site reviews approved. Updated emails 9, 10, 13 and the Notes tab (replaceAllText), Asana task 9 and repo files.
+
+Next:
+1. Danie sends the fragrances in Hamza's two videos (Emails 5 and 7) and whether the 10 scents are ranked; then fill those tiles and fix the Email 7 subject if needed.
+2. Figma design test (Veterans Day Sale Is Live first).
+
 ## 2026-10-31: Session 4 (November finished)
 
 Done:
