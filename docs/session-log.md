@@ -2,6 +2,15 @@
 
 Newest first.
 
+## 2026-11-03: Session 6 (Nov 9 design)
+
+Done:
+- Figma: built "Nov 9 - Cold-Weather Scents Worth Sampling" R1 in "Scent Pilot | 3T Design Drafts" (section 97:11, email 97:15), beside the Veterans Day draft. Reuses its top bar, logo, footer and button components. Images from scentpilot.com: lifestyle decant shot (ChatGPT_Image_Apr_4_2025...) as hero, product photos of Tobacco Vanille, Le Male Elixir, Most Wanted Parfum, Oud Wood.
+
+Next:
+1. Danie reviews both Figma drafts.
+2. Remaining designed emails (3, 5, 7, 8, 9, 10, 12, 13) on request.
+
 ## 2026-11-01: Session 5 (answers + first Figma design)
 
 Done:
