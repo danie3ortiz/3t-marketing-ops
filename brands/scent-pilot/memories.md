@@ -114,3 +114,8 @@ Verified facts only. Each entry has a source and date. If it is not here or in p
 **Claim:** Product photos (bottle on light grey with a "decant sample / image for reference only" side panel), a 2ml/5ml/10ml vial lineup on transparent background, a 10ml vial on dark grey (Untitled_design_35.png) and the logo (scent_pilot_final.png) download through https://scentpilot.com/cdn/shop/files/<file>. Crop product shots to the bottle for email tiles.
 **Source:** scentpilot.com product JSON + homepage
 **Date verified:** 2026-11-01
+
+## Top seller
+**Claim:** Louis Vuitton Imagination is the client's top seller and still something people are curious to try (a new trend). Site: 4.6/5 from 44 reviews; sizes 2ml $39.99, 5ml $64.99, 10ml $99.99; no full bottle listed.
+**Source:** Client feedback via Danie, 2026-11-03; scentpilot.com product page
+**Date verified:** 2026-11-03

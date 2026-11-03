@@ -2,6 +2,18 @@
 
 Newest first.
 
+## 2026-11-03: Session 6b (client feedback)
+
+Done:
+- Client feedback on the November lineup. Mapped his numbering to the Asana calendar (sorted by Send Date).
+- Email 10 rebuilt as "Louis Vuitton Imagination Spotlight" in the doc (review: Tyler B.), Notes tab used-review list updated, Imagination rating in Email 3 updated to 4.6.
+- Asana: task renamed "BF Reminder | Louis Vuitton Imagination Spotlight" with new notes; GD subtask renamed.
+- Draft client reply: `brands/scent-pilot/client-comms/2026-11-03-reply-november-feedback.md`.
+
+Open:
+1. Social Proof email now sends Nov 15 (Asana) but copy is written for the Nov 13 last day of the Veterans Day sale. Danie to decide.
+2. Mockup of the 10 Signature Scents email for the client (needs the video's scents).
+
 ## 2026-11-03: Session 6 (Nov 9 design)
 
 Done:

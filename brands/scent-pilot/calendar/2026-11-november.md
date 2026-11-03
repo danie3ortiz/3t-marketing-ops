@@ -20,7 +20,7 @@ Source of truth: Google Doc "November Calendar Ideas" (id 1EMQ7Nue7l5RKRmZ-DjukQ
 | 7 | Fri Nov 20 | Hamza's Latest Comparison Video | Designed | No offer | Video: https://www.youtube.com/watch?v=i8c66yepilc ("10 Signature Scents That Actually Get Compliments"). Landing: https://scentpilot.com/ (Danie, 2026-10-31) |
 | 8 | Sun Nov 22 | How Your Decant Gets Made | Designed | No offer | Sterile decanting process, Scent Pilot labeled bottle |
 | 9 | Mon Nov 23 | Black Friday Sale Is Live | Designed | Black Friday sale | Runs through midnight Friday Dec 4 |
-| 10 | Wed Nov 25 | Creed Aventus Spotlight | Designed | Black Friday sale | missing info: sizes, pricing, sale eligibility. Link: https://scentpilot.com/search?q=creed+aventus |
+| 10 | Wed Nov 25 | Louis Vuitton Imagination Spotlight (was Creed Aventus; client change 2026-11-03) | Designed | Black Friday sale | Link: https://scentpilot.com/products/louis-vuitton-imagination |
 | 11 | Thu Nov 26 | Thanksgiving Thank You From Hamza | Text Based | Mentions BF sale | Founder gratitude note |
 | 12 | Fri Nov 27 | The Black Friday Gift Guide | Designed | Black Friday sale | missing info: featured fragrances, gift price points |
 | 13 | Mon Nov 30 | Cyber Monday: Your Free 10ml Is Waiting | Designed | Black Friday sale (free 10ml push) | missing info: which brands are in the free 10ml selection |
@@ -55,7 +55,7 @@ Parent tasks assigned to Jeoff (copy/brief). Due: first 4 sends due Nov 3; the r
 | 11/20 | Hamza's Latest Comparison Video | 1220082706810779 | 11/4 | 1220090771148449 |
 | 11/22 | How Your Decant Gets Made | 1220089266803342 | 11/5 | 1220082706821324 |
 | 11/23 | Black Friday Sale Is Live | 1220090771145994 | 11/5 | 1220092295466552 |
-| 11/25 | Creed Aventus Spotlight | 1220090771145930 | 11/5 | 1220089266806762 |
+| 11/25 | BF Reminder: Louis Vuitton Imagination Spotlight | 1220090771145930 | 11/5 | 1220089266806762 |
 | 11/26 | Thanksgiving Thank You From Hamza | 1220082706793846 | 11/6 | none (plain text) |
 | 11/27 | The Black Friday Gift Guide | 1220089266803470 | 11/6 | 1220092295466488 |
 | 11/30 | Cyber Monday: Your Free 10ml Is Waiting | 1220082706793057 | 11/6 | 1220092295466424 |
@@ -71,3 +71,10 @@ Parent tasks assigned to Jeoff (copy/brief). Due: first 4 sends due Nov 3; the r
 ## Doc tabs (November 2026 -SP)
 Email 1 t.0 | 2 t.8jjolbh0kudr | 3 t.42gz5xvkckb0 | 4 t.kv1qk5zgekyw | 5 t.wke18jl9p1j | 6 t.tga7w1sfonhr | 7 t.6ua2226odq31 | 8 t.9bsshuexhhmo | 9 t.cz7img5ojhy7 | 10 t.2bjjstyc3r3o | 11 t.9kqtpk1su0t4 | 12 t.7u1joefpobh8 | 13 t.cj2cabgd39to | Notes t.i99csfnl7prg
 Link pattern: https://docs.google.com/document/d/1877GRyrNBfLsQoDi7lcT7TVFsiL7cBlJescXoOEX6JU/edit?tab=<tab id>
+
+## Client feedback (2026-11-03)
+- Client refers to emails by the Asana calendar order (sorted by Send Date). Danie renamed tasks and changed dates/times/audiences in Asana; Asana is now the reference for numbering.
+- Client's "4th" = Social Proof (now Nov 15 in Asana), "6th" = Myth vs Fact, "7th" = 10 Signature Scents, "BF reminder" = Nov 25 spotlight.
+- Nov 25 spotlight switched to Louis Vuitton Imagination (client: top seller, still a trend people are curious to try). Doc tab and Asana task + GD subtask updated.
+- CONFLICT: Social Proof moved to Nov 15 in Asana, but its copy is written for the last day of the Veterans Day sale (Nov 13, REMEMBER15 "ends tonight"). Needs Danie's call.
+- Client asked for an example of the 10 Signature Scents email; draft reply offers a mockup.
