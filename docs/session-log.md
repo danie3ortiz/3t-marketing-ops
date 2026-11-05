@@ -2,6 +2,22 @@
 
 Newest first.
 
+## 2026-11-05: Session 7 (fade-style designs)
+
+Done:
+- Studied the designer's GD versions (171:31 Cold-Weather, 140:270 Veterans Day): full-bleed photos with gradient fades, glow ellipses behind bottles, two-weight Mono headlines, gold accents, no prices ("Available in 2ml, 5ml, 10ml").
+- Network: added www.youtube.com, i.ytimg.com, unsplash.com, images.unsplash.com. Unsplash search blocks automated access (images host works). YouTube rate-limits the I Will page; transcript endpoint refused.
+- Video 7 ("10 Signature Scents That Actually Get Compliments!") is ranked: chapters run "Fragrances 10 through 9" ... "2 through 1". Exact ten still unknown (description names brands only: Dior, D&G, Prada, Armani, Gucci).
+- Generated 3 people images with Figma AI (man testing a sample, hands opening sample box, man getting ready); uploaded transparent bottle cutouts from scentpilot.com (I Will, Althair, Paradigme, ADG 2024, Aventus, LV Imagination) and both video thumbnails.
+- Built "Nov 13 - Social Proof" (section 262:49, email 262:53) and "Nov 16 - YT I Will" (section 263:56, email 263:60) in the fade style, no prices.
+
+Blocked: Figma Starter plan MCP call limit reached mid-session.
+
+Next:
+1. Fix Email 5 hero logo (group 'Hero' > GROUP slid down to y~920 when the frame resized; set y=36).
+2. Build Email 7 (YT 10 Signature Scents): assets ready (thumb hash 16d9d106..., man-getting-ready 85f0e794..., I Will 2565e407..., Althair bb4bd17a..., Paradigme e8a8b51b...).
+3. Flags for Danie: Social Proof copy still says Nov 13 last day of sale (Asana says Nov 15); Email 7 headline "For Guaranteed Compliments" conflicts with the brand rule against implying guaranteed compliments; size ladder prices dropped per Danie.
+
 ## 2026-11-03: Session 6b (client feedback)
 
 Done:
