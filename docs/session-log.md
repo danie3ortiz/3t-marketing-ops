@@ -20,7 +20,8 @@ Danie's answers (Nov 5), applied to the Google Doc and Asana:
 - Email 7 review: Joseph L. quoted in full.
 Figma still to do (limit): Social Proof design needs the same sale-copy removal; Email 5 logo fix; Email 7 build with the new headline and full review.
 - Danie upgraded the Figma team (manage's team). Done: Social Proof design without sale copy (closing now "Start With A 2ml. / Keep What Earns It."), Email 5 logo fixed, Email 7 built (section 269:62, email 269:66) with "That Get Noticed", 3 featured fragrances (no prices), timeline over the man-getting-ready image, Joseph L. in full.
-- Note: the Email 7 video thumbnail itself reads "GUARANTEED COMPLIMENTS!" (Hamza's own YouTube thumbnail).
+- YouTube emails: replaced the thumbnails with graded video frames (tools/video_frame.py) in a new SP Video Feature component (274:80); I Will closing background swapped to a graded street frame; Email 5 logo re-cloned and pinned (constraints MIN).
+- Note (resolved by the swap): the Email 7 video thumbnail itself reads "GUARANTEED COMPLIMENTS!" (Hamza's own YouTube thumbnail).
 
 Next:
 1. Fix Email 5 hero logo (group 'Hero' > GROUP slid down to y~920 when the frame resized; set y=36).

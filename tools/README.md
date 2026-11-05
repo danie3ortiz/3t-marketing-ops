@@ -11,3 +11,12 @@ How Claude uses it:
 4. Verify with Drive `read_file_content` and a PDF export render.
 
 Only use it on an EMPTY tab: the positions assume the tab starts with a single empty paragraph.
+
+## video_frame.py (YouTube emails)
+
+Grades a frame from a YouTube video so it fits the dark Scent Pilot email look (darker, warmer, less saturated, soft vignette).
+
+1. Pull clean frames (no thumbnail text): `https://i.ytimg.com/vi/<VIDEO_ID>/maxres1.jpg`, `maxres2.jpg`, `maxres3.jpg`.
+2. Pick the frame with the best human moment (a reaction, Hamza mid-sentence).
+3. `python3 -I tools/video_frame.py frame.jpg out.jpg --size 1200x800`
+4. Upload to Figma and drop it into an instance of the **SP Video Feature** component (Components frame, "Scent Pilot | 3T Design Drafts"): replace the "Video frame" image fill. Link the whole block to the video.

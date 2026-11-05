@@ -31,3 +31,12 @@ Strength: seen once. Source: Danie, 2026-10-31 (F005).
 ## 3T-09: Designed emails need supporting sections
 Danie (2026-10-31): emails with only hero + one grid feel thin. Give designed campaigns 5 to 7 sections, reusing modules from the brand's approved past designs (for Scent Pilot: notes breakdown, How It Works steps, Testing Before Investing, Everywhere else vs Scent Pilot, size and price ladder, review card, offer icons). Every module still uses verified facts only.
 
+## 3T-10: YouTube emails use a graded video frame, not the thumbnail
+Danie (2026-11-05): the YouTube thumbnail (big text, cut-outs) makes classy emails look cheesy. Use a clean frame from the video (i.ytimg.com/vi/<id>/maxres1-3.jpg), graded with tools/video_frame.py, full-bleed in the SP Video Feature component with fades and a thin play ring ("WATCH ON YOUTUBE"). No borders, no thumbnail text. Pick a frame with a real human moment.
+
+## 3T-11: Product sections carry no prices
+Danie (2026-11-05): "Please don't include pricing in the email product sections." Use "Available in 2ml, 5ml and 10ml." Size ladders show sizes and their line, no price.
+
+## 3T-12: Use people in designs
+Danie (2026-11-05): use images of humans relevant to the topic; place the real bottle photo into the scene with fades where needed.
+
