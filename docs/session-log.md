@@ -19,6 +19,8 @@ Danie's answers (Nov 5), applied to the Google Doc and Asana:
 - Social Proof: all sale copy removed (Nov 15 send, no offer): send date, brief, preview, top bar (authenticity line), eyebrow, hero line, CTAs ("START TESTING"), closing line, code removed, shipping line only. Asana notes updated.
 - Email 7 review: Joseph L. quoted in full.
 Figma still to do (limit): Social Proof design needs the same sale-copy removal; Email 5 logo fix; Email 7 build with the new headline and full review.
+- Danie upgraded the Figma team (manage's team). Done: Social Proof design without sale copy (closing now "Start With A 2ml. / Keep What Earns It."), Email 5 logo fixed, Email 7 built (section 269:62, email 269:66) with "That Get Noticed", 3 featured fragrances (no prices), timeline over the man-getting-ready image, Joseph L. in full.
+- Note: the Email 7 video thumbnail itself reads "GUARANTEED COMPLIMENTS!" (Hamza's own YouTube thumbnail).
 
 Next:
 1. Fix Email 5 hero logo (group 'Hero' > GROUP slid down to y~920 when the frame resized; set y=36).
