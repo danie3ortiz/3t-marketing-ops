@@ -13,6 +13,13 @@ Done:
 
 Blocked: Figma Starter plan MCP call limit reached mid-session.
 
+Danie's answers (Nov 5), applied to the Google Doc and Asana:
+- Email 7 needs only the fragrances already in the brief (I Will, Althair, Paradigme).
+- Email 7 headline "For Guaranteed Compliments" -> "That Get Noticed".
+- Social Proof: all sale copy removed (Nov 15 send, no offer): send date, brief, preview, top bar (authenticity line), eyebrow, hero line, CTAs ("START TESTING"), closing line, code removed, shipping line only. Asana notes updated.
+- Email 7 review: Joseph L. quoted in full.
+Figma still to do (limit): Social Proof design needs the same sale-copy removal; Email 5 logo fix; Email 7 build with the new headline and full review.
+
 Next:
 1. Fix Email 5 hero logo (group 'Hero' > GROUP slid down to y~920 when the frame resized; set y=36).
 2. Build Email 7 (YT 10 Signature Scents): assets ready (thumb hash 16d9d106..., man-getting-ready 85f0e794..., I Will 2565e407..., Althair bb4bd17a..., Paradigme e8a8b51b...).

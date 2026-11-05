@@ -76,5 +76,5 @@ Link pattern: https://docs.google.com/document/d/1877GRyrNBfLsQoDi7lcT7TVFsiL7cB
 - Client refers to emails by the Asana calendar order (sorted by Send Date). Danie renamed tasks and changed dates/times/audiences in Asana; Asana is now the reference for numbering.
 - Client's "4th" = Social Proof (now Nov 15 in Asana), "6th" = Myth vs Fact, "7th" = 10 Signature Scents, "BF reminder" = Nov 25 spotlight.
 - Nov 25 spotlight switched to Louis Vuitton Imagination (client: top seller, still a trend people are curious to try). Doc tab and Asana task + GD subtask updated.
-- CONFLICT: Social Proof moved to Nov 15 in Asana, but its copy is written for the last day of the Veterans Day sale (Nov 13, REMEMBER15 "ends tonight"). Needs Danie's call.
+- RESOLVED (Danie, Nov 5): Social Proof sends Nov 15 with no offer; sale copy removed from brief and Asana.
 - Client asked for an example of the 10 Signature Scents email; draft reply offers a mockup.
