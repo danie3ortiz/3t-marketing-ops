@@ -2,6 +2,10 @@
 
 Newest first.
 
+## 2026-11-11: Session 8 (restore)
+
+- Danie: bottom of the Social Proof design (262:53) was erased. "Why They Tested First" and "Closing CTA" were missing; no copy existed in the file. Rebuilt both from the original build steps (final no-sale version), inserted between Reviews and the Authenticity strip; screenshot matches the earlier version. Kheen's "GD: Social Proof" (289:1353) untouched.
+
 ## 2026-11-05: Session 7 (fade-style designs)
 
 Done:
