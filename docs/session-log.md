@@ -2,7 +2,10 @@
 
 Newest first.
 
-## 2026-11-11: Session 8 (restore)
+## 2026-11-11: Session 8 (restore + Gift Guide + Cyber Monday)
+
+- Designed "Nov 27 - The Black Friday Gift Guide" (section 563:165, email 563:169) and "Nov 30 - Cyber Monday: Your Free 10ml Is Waiting" (section 564:174, email 564:178) in the fade style. New Figma AI images: couple gift exchange by a fire (562:45), man shopping on laptop with a 10ml vial (562:46). New bottle cutouts: Light Blue Intense, Legend Elixir, Oud Wood, Eros. No prices in product sections; Gift Guide brief "From $" lines replaced with "Available in 2ml, 5ml and 10ml."
+- Flags for Danie: (1) Gift Guide "Any three of these in 2ml clear $50, so shipping is free" is false after 15% off (cheapest three $51.97 -> $44.17). (2) Cyber Monday hero "One cent short of a free 10ml" is wrong: threshold counts after discount, LV 10ml is $84.99 with the code. (3) Cyber Monday reuses Tyler B. (Email 10) and Joseph L. (Email 7) reviews; quotes shown in full in the design. (4) Budget tiers section keeps prices by design (it is a price guide).
 
 - Danie: bottom of the Social Proof design (262:53) was erased. "Why They Tested First" and "Closing CTA" were missing; no copy existed in the file. Rebuilt both from the original build steps (final no-sale version), inserted between Reviews and the Authenticity strip; screenshot matches the earlier version. Kheen's "GD: Social Proof" (289:1353) untouched.
 
