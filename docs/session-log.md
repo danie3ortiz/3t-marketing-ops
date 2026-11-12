@@ -2,6 +2,12 @@
 
 Newest first.
 
+## 2026-11-12: Session 9 (client feedback notes)
+
+- Read Hamza's Nov 12 Figma comments (drafts file, Client Review page: Social Proof, YT I Will, YT Top 10, How Your Decant Gets Made, Veterans Day) and his older comments in the client file. No design changes (Kheen owns them).
+- Saved: brands/scent-pilot/client-feedback.md (per-email notes + standing lessons), voice rules 8 to 10, taste 3T-13, feedback F010.
+- Conflicts with live November copy to raise with Danie: "Freshly decanted / sterile equipment" and "test it for a week" lines appear in several briefs (Testing Before Investing block, How Your Decant Gets Made, I Will sizes); Light Blue Intense used in Email 2 and Gift Guide (check it's not the discontinued one); Top 10 needs Dior Homme 2020 and Spicebomb Metallic Musk in the brief.
+
 ## 2026-11-11: Session 8 (restore + Gift Guide + Cyber Monday)
 
 - Designed "Nov 27 - The Black Friday Gift Guide" (section 563:165, email 563:169) and "Nov 30 - Cyber Monday: Your Free 10ml Is Waiting" (section 564:174, email 564:178) in the fade style. New Figma AI images: couple gift exchange by a fire (562:45), man shopping on laptop with a 10ml vial (562:46). New bottle cutouts: Light Blue Intense, Legend Elixir, Oud Wood, Eros. No prices in product sections; Gift Guide brief "From $" lines replaced with "Available in 2ml, 5ml and 10ml."

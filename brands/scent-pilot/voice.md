@@ -42,6 +42,23 @@ A fragrance guy talking to a friend who is about to blind-buy: plain, specific, 
 **Don't:** Generic "New Arrivals Inside".
 **Why:** Matches the TTM 2 to 5 word Title Case default and the brand's sends. One known exception: "She said this live on camera..."
 
+## Client rules from Hamza's Figma feedback (see client-feedback.md)
+
+### 8. Wear and enjoy, not "test"
+**Do:** "Wear it and enjoy it", "Discover your next signature scent", "How many should I start with? 3 to 5 is the sweet spot."
+**Don't:** "Test it for a week", "Start with a 2ml" as the close, paper-strip comparisons (Hamza reviews on paper strips).
+**Why:** Hamza, 2026-11-12. Supersedes the "live in it for a week" example in rule 2 for designed emails.
+
+### 9. Light touch on process, authenticity and policy
+**Do:** One brand-positive authenticity line; positive framing for policies ("How come decant sales are final? To preserve the quality ...").
+**Don't:** "Freshly decanted", "sterile equipment", "not affiliated with the brands we carry", packaging claims, blunt "All sales are final", leaning on authenticity so hard it sounds defensive.
+**Why:** Hamza, 2026-06-26, 2026-07-07, 2026-07-14, 2026-11-12.
+
+### 10. Facts Hamza checks
+**Do:** Feature only fragrances actually in the video; verify notes on Fragrantica; match title and bottle; mention travel use (decants are TSA friendly).
+**Don't:** Shots at YouTube-review buyers; pitting one fragrance against another as the "bad" choice; guy interviewees in street-interview copy (he interviews women).
+**Why:** Hamza, 2026-07 to 2026-11-12.
+
 ## Notes
 - Preview text was blank on 4 of 5 recent sends: always fill it going forward.
 - The "real girls, no paid actors" angle appeared once; treat it as a one-off.

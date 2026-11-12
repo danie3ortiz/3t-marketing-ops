@@ -40,3 +40,6 @@ Danie (2026-11-05): "Please don't include pricing in the email product sections.
 ## 3T-12: Use people in designs
 Danie (2026-11-05): use images of humans relevant to the topic; place the real bottle photo into the scene with fades where needed.
 
+## 3T-13: Read the client feedback log before writing
+Every client keeps a feedback log at brands/<slug>/client-feedback.md (Hamza's Figma comments for Scent Pilot). Read it with voice.md before any copy; client lines beat 3T defaults.
+
