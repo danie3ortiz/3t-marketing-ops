@@ -30,7 +30,7 @@ Read-only notes: Kheen applies design changes. Read this file before writing any
 - FAQ "Why isn't it in the designer's bottle? ... We're not affiliated with the brands we carry.": "I would avoid this bullet point and replace it with something else."
 - FAQ "What size should I start with? 2ml": change to "How many should I start with?" to encourage buying more; "3-5 is the sweet spot."
 - FAQ "Can I return it? All sales are final.": "a bit harsh ... if we use the return angle I want it to sound positive", e.g. "How come sales on the decants are final? In order to preserve the quality ..."
-- Closing "Start With a 2ml.": "I would remove start with a 2ml. Discover Your Next Signature Scent sounds better to me."
+- Closing "Start With a 2ml.": "I would remove start with a 2ml. Discover Your Next Signature Scent sounds better to me." DONE 2026-11-12 (Claude, at Danie's request): headline now "Discover Your Next Signature Scent" (text node 554:455).
 
 ### Veterans Day (image 460:21): "Good to go."
 
