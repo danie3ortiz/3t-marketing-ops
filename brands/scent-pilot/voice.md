@@ -68,3 +68,9 @@ A fragrance guy talking to a friend who is about to blind-buy: plain, specific, 
 - "Testing Before Investing."
 - "Try it small. Only go big on what actually works."
 - "Authenticity Guaranteed. Or Your Money Back." (site badge)
+
+### 11. Sell the discovery, not the smallest size
+**Do:** Encourage several picks ("Pick three to five", "Build your discovery set", "Some you'll love, some you won't. That's the fun of it."); present all sizes as equal starting points ("Available in 2ml, 5ml and 10ml.", "Start with a 5ml or 10ml if you already know you love it").
+**Don't:** Anchor to the 2ml ("Start with a 2ml", "try it in 2ml first", "every one is testable in 2ml") or frame the sample as a low-commitment single try.
+**Why:** Hamza, 2026-11-13 video: "I would try not to anchor them too much to a 2ml ... anchor them to buy multiple samples because it's a discovery, it's a journey." Many buyers already know the 2ml and want a 5ml or 10ml. Supersedes 2ml-first examples in rules 2 and 7 (e.g. the "2ml Bottle" subject still fine only when the story is about that 2ml).
+

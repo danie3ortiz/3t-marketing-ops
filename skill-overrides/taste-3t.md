@@ -43,3 +43,6 @@ Danie (2026-11-05): use images of humans relevant to the topic; place the real b
 ## 3T-13: Read the client feedback log before writing
 Every client keeps a feedback log at brands/<slug>/client-feedback.md (Hamza's Figma comments for Scent Pilot). Read it with voice.md before any copy; client lines beat 3T defaults.
 
+## 3T-14: Don't anchor to the entry size; sell the set
+Hamza (Scent Pilot, 2026-11-13), applies to any sample or trial-size brand: leading with the smallest, cheapest size ("start with a 2ml") undersells customers who already know the format and want bigger. Default to encouraging several picks (discovery, a journey, some hits some misses) and show every size as a valid start. Check the brand's voice.md for its own wording.
+

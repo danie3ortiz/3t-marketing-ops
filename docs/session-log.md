@@ -2,6 +2,13 @@
 
 Newest first.
 
+## 2026-11-14: Session 10 (Hamza video feedback)
+
+- Transcribed Hamza's 98-second WhatsApp video (2026-11-13) offline with Whisper (sherpa-onnx, model from GitHub releases; huggingface is blocked). Transcript + takeaways: brands/scent-pilot/client-comms/2026-11-13-hamza-video-feedback.md.
+- Takeaways: designs and concepts "phenomenal"; wording is the one area to improve; stop anchoring to the 2ml; push buying several (discovery, a journey); he's open to angle questions.
+- Saved: client-feedback.md (2026-11-13 section), voice rule 11, taste 3T-14, feedback F011.
+- Open: November briefs still carry 2ml-first lines (e.g. "Start with a 2ml" closes, "testable in 2ml", "test it in 2ml before you commit", FAQ "What size should I start with? 2ml"). Offered to Danie to sweep them.
+
 ## 2026-11-12: Session 9 (client feedback notes)
 
 - Read Hamza's Nov 12 Figma comments (drafts file, Client Review page: Social Proof, YT I Will, YT Top 10, How Your Decant Gets Made, Veterans Day) and his older comments in the client file. No design changes (Kheen owns them).

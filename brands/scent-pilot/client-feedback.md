@@ -4,6 +4,13 @@ Hamza's comments from Figma, collected so future copy and design don't repeat th
 Sources: drafts file "Scent Pilot | 3T Design Drafts" (Je4icun0HdikTq1AlQp6es), page "Client Review"; client file "Scent Pilot" (hxch7c5hlSUe167cEQ95iw), page "CLIENT - REVIEW".
 Read-only notes: Kheen applies design changes. Read this file before writing any Scent Pilot copy.
 
+## 2026-11-13: Hamza video (WhatsApp, overall feedback)
+Full transcript: client-comms/2026-11-13-hamza-video-feedback.md
+- Overall: "a lot of this stuff looks fantastic and I genuinely mean it." Graphics and ideas "phenomenal", "really good concepts". The only thing to work on is the wording.
+- Main wording note: "I would try not to anchor them too much to a 2ml." Many customers already know the 2ml and find it too small; some want to start with a 5ml or 10ml.
+- Instead "anchor them to buy multiple samples because, hey, it's a discovery. It's a journey. There's things you might like. There's things you may not like." His customers think "maybe I'll try five or six."
+- He invites angle questions before we write ("I'm not sure about a certain angle, what do you think?"). Ask him when an angle is uncertain.
+
 ## 2026-11-12: November designs (drafts file, Client Review page)
 
 ### Social Proof | What Buyers Say After Trying First (frame 552:150)
