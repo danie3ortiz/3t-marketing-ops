@@ -7,7 +7,8 @@ Newest first.
 - Transcribed Hamza's 98-second WhatsApp video (2026-11-13) offline with Whisper (sherpa-onnx, model from GitHub releases; huggingface is blocked). Transcript + takeaways: brands/scent-pilot/client-comms/2026-11-13-hamza-video-feedback.md.
 - Takeaways: designs and concepts "phenomenal"; wording is the one area to improve; stop anchoring to the 2ml; push buying several (discovery, a journey); he's open to angle questions.
 - Saved: client-feedback.md (2026-11-13 section), voice rule 11, taste 3T-14, feedback F011.
-- Open: November briefs still carry 2ml-first lines (e.g. "Start with a 2ml" closes, "testable in 2ml", "test it in 2ml before you commit", FAQ "What size should I start with? 2ml"). Offered to Danie to sweep them.
+- Danie said yes: swept the Google Doc for 2ml-first and "testing" lines in the unsent emails (E3 Social Proof through E12 Gift Guide; 26 replacements, all applied). Sent emails (Cold-Weather, Veterans Day x2) left as they were. E8 FAQ now "How many should I start with? 3 to 5 is the sweet spot", close "Discover Your Next Signature Scent". Gift Guide's false "three 2ml clear $50" line replaced. Figma not touched: Kheen needs to match E3 CTAs (START DISCOVERING) and copy in his GDs.
+- Not changed: price size ladders in E5 and E10, E8 "not affiliated" and "All sales are final" FAQ answers in the doc (Danie fixed them in Figma; doc may lag).
 
 ## 2026-11-12: Session 9 (client feedback notes)
 
